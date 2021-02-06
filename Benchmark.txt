@@ -1,0 +1,24 @@
+05-02-2021, 20:37:55 Hades.exe benchmark completed, 44053 frames rendered in 104.562 s
+                     Average framerate  :  421.3 FPS
+                     Minimum framerate  :  209.4 FPS
+                     Maximum framerate  :  597.7 FPS
+                     1% low framerate   :   70.0 FPS
+                     0.1% low framerate :    7.2 FPS
+05-02-2021, 20:42:18 Slippi Dolphin.exe benchmark completed, 7056 frames rendered in 119.141 s
+                     Average framerate  :   59.2 FPS
+                     Minimum framerate  :    0.8 FPS
+                     Maximum framerate  :   60.4 FPS
+                     1% low framerate   :    3.7 FPS
+                     0.1% low framerate :    0.8 FPS
+05-02-2021, 20:47:22 hl2.exe benchmark completed, 2112 frames rendered in 8.485 s
+                     Average framerate  :  248.9 FPS
+                     Minimum framerate  :  242.4 FPS
+                     Maximum framerate  :  256.6 FPS
+                     1% low framerate   :  222.8 FPS
+                     0.1% low framerate :  220.7 FPS
+05-02-2021, 20:52:30 sonic2App.exe benchmark completed, 7399 frames rendered in 99.016 s
+                     Average framerate  :   74.7 FPS
+                     Minimum framerate  :   61.9 FPS
+                     Maximum framerate  :   75.8 FPS
+                     1% low framerate   :   69.8 FPS
+                     0.1% low framerate :    5.4 FPS
